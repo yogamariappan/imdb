@@ -1,3 +1,7 @@
+
+ <a href="https://docs.google.com/presentation/d/1oLLQIHura4Ahj02pr9pcQoj_3xJjzxYQ/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true">click here IMDB PPT & DASHBOARD </a>
+
+
 # IMDB_Analysis
 Explore the dynamics of movie success on IMDB through a comprehensive analysis. Uncover insights into the influence of genres, duration, language, directors, and budgets on IMDB ratings. The project offers actionable findings for stakeholders in the film industry, presented with compelling visualizations in Power BI dashboards.
 
